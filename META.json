@@ -4,7 +4,7 @@
       "Nils Diewald"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "ExtUtils::MakeMaker version 6.82, CPAN::Meta::Converter version 2.141170",
    "license" : [
       "mit"
    ],
@@ -49,5 +49,5 @@
          "url" : "https://github.com/Akron/Data-Password-Meter"
       }
    },
-   "version" : "0.04"
+   "version" : "0.05"
 }
