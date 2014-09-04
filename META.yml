@@ -26,4 +26,4 @@ requires:
 resources:
   license: http://www.opensource.org/licenses/MIT
   repository: https://github.com/Akron/Data-Password-Meter
-version: '0.05'
+version: '0.06'
